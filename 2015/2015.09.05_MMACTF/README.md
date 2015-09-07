@@ -71,9 +71,9 @@ http://bow.chal.mmactf.link/~scs/crypt5.cgi
 
 60 00 0c 3a - 60 это длина. А 41 XOR 4D = 0c. 41 XOR 7B = 3a.
 
-(scripts/flag03.sh) - АнтиXOR
+https://github.com/Ctf-Trinidad/CTF_Writeups/blob/master/2015/2015.09.05_MMACTF/scripts/flag03.sh - АнтиXOR
 
-(scripts/list03.txt) - код
+https://github.com/Ctf-Trinidad/CTF_Writeups/blob/master/2015/2015.09.05_MMACTF/scripts/list03.txt - код
 
 на выходе получаем флаг в HEX
 
