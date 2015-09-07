@@ -1,6 +1,21 @@
+# Hackcon 2015: I'd love to turn you on
+
+**Category:** Crypto
+**Points:** 10
+**Link:** http://score.mmactf.link/problems/3?locale=en
+**Difficulty:** WarmUp (easiest)
+
+**Description:** [Flag01]
+
+The flag is in all uppercase letters without spaces.
+
+This is a crypto challenge. Only the highlighted parts are important to get to know what you have to do. What you have to do it on, is the name of the song.
+
+## Write-up
+
 Link http://uecmma.github.io/mmactf/
 
-Smart Cipher System http://score.mmactf.link/problems/3?locale=en
+Smart Cipher System 
 Decrypt 4 flags.
 
 ФЛАГ 1 (10 очков)
@@ -14,7 +29,7 @@ http://bow.chal.mmactf.link/~scs/crypt2.cgi
 17 (Edit->Modify Data->Add 17 (check hexadec.)) и получаем первый флаг
 MMA{bba85b6768db240f8c4ae3c29f9928c74f6ca091}
 В общем имеем шифр Цезаря.
-
+**Description:** [Flag01]
 ФЛАГ 2 (10 очков)
 e3 e3 83 21 33 96 23 43 ef 9a 9a 05 18 c7 23 07 07 07 c7 9a 04 33 23 07 23 ef 12 c7 04 96 43 23 23 18 04 04 05 c7 fb 18 96 43 ef 43 ff
 http://bow.chal.mmactf.link/~scs/crypt4.cgi
